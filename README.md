@@ -33,5 +33,13 @@ basic playback controls like play, pause, stop, and volume control.
 - PyAudio (for audio playback)
 - Pycaw (for volume control)
 
+## Collaboration
+Feel free to collaborate on this project. You can:
+- Fork the repository
+- Create a new branch (git checkout -b feature-branch)
+- Make your changes
+- Push to your branch (git push origin feature-branch)
+- Create a pull request for review
+
 ## License
 This project is licensed under the MIT License.

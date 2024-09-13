@@ -1,9 +1,8 @@
 #v1.3
 #now the volume function finally works
 #improved gui and threading
-
-
 #the new standard version
+
 
 
 import tkinter as tk

@@ -1,7 +1,7 @@
 
 # Twinsync Media Player
 
-Twinsync Media Player is a Python-based media player built with Tkinter for the GUI. 
+Twinsync Media Player is a Python-based media player built with Tkinter for the GUI.  
 It supports simultaneous audio playback on multiple Bluetooth devices and offers 
 basic playback controls like play, pause, stop, and volume control.
 

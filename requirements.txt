@@ -3,3 +3,4 @@ pyaudio
 wave
 comtypes
 pycaw
+python
